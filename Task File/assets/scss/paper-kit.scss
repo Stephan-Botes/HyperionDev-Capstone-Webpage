@@ -1,0 +1,62 @@
+/*!
+
+ =========================================================
+ * Paper Kit - v2.2.0
+ =========================================================
+
+ * Product Page: https://www.creative-tim.com/product/paper-kit-2
+ * Copyright 2019 Creative Tim (http://www.creative-tim.com)
+
+ * Designed by www.invisionapp.com Coded by www.creative-tim.com
+
+ =========================================================
+
+ * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+ */
+
+@import '../scss/paper-kit/variables';
+@import '../scss/paper-kit/mixins';
+
+// Plugins CSS
+@import "../scss/paper-kit/plugins/plugin-bootstrap-switch";
+@import "../scss/paper-kit/plugins/plugin-nouislider";
+@import "../scss/paper-kit/plugins/plugin-datepicker";
+
+// Core CSS
+@import "../scss/paper-kit/buttons";
+@import "../scss/paper-kit/inputs";
+@import "../scss/paper-kit/checkbox-radio";
+@import "../scss/paper-kit/progress-bars";
+@import "../scss/paper-kit/badges";
+@import "../scss/paper-kit/pagination";
+@import "../scss/paper-kit/typography";
+@import "../scss/paper-kit/misc";
+@import "../scss/paper-kit/labels";
+
+// components
+@import "../scss/paper-kit/nucleo-icons";
+@import "../scss/paper-kit/social-buttons";
+@import "../scss/paper-kit/tabs-navs";
+@import "../scss/paper-kit/navbars";
+@import "../scss/paper-kit/dropdown";
+@import "../scss/paper-kit/alerts";
+@import "../scss/paper-kit/images";
+@import "../scss/paper-kit/tooltips-and-popovers";
+@import "../scss/paper-kit/modal";
+@import "../scss/paper-kit/icons";
+@import "../scss/paper-kit/carousel";
+@import "../scss/paper-kit/footers";
+
+// Cards
+@import "../scss/paper-kit/cards";
+@import "../scss/paper-kit/cards/card-plain";
+@import "../scss/paper-kit/cards/card-register";
+@import "../scss/paper-kit/cards/card-profile";
+
+// example pages and sections
+@import "../scss/paper-kit/examples";
+@import "../scss/paper-kit/sections";
+
+
+@import "../scss/paper-kit/responsive";
