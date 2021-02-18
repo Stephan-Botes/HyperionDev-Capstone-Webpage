@@ -2,7 +2,7 @@
 A website created to showcase the knowledge gained on creating a front-end webpage during my studies of _Full Stack Web Developer & Software Engineer_ at _HyperionDev_.
 
 ## Tools used
-The primary tool used for this website was [Paper Kit 2](https://demos.creative-tim.com/paper-kit-2/index.html), created by Creative Tim.
+The primary tool used for this website was [Paper Kit 2](https://demos.creative-tim.com/paper-kit-2/index.html), created by Creative Tim.  
 Additionally common front end websuit tools were used such as: 
 * html
 * css/ scss/ sass 
